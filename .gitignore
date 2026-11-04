@@ -16,3 +16,4 @@ __pycache__/
 # 기타
 .DS_Store
 .ipynb_checkpoints/
+*.sh
